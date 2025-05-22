@@ -6,8 +6,6 @@ A brief hello world application
 
 My purpose is to establish a foundation for future projects
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 Javascript
